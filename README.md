@@ -146,13 +146,6 @@ bidirectional message exchange.
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/kirubakaran28/
 
-🌐 **Portfolio:**  
-https://www.datascienceportfol.io/
-
-📊 **NovyPro:**  
-https://www.novypro.com/profile_projects/kirubakaran-a
-
----
 
 ### 💡 Building AI systems that solve real-world problems.
 
